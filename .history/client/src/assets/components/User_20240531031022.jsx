@@ -38,7 +38,7 @@ function User() {
                     <td>
                       <div className="d-flex justify-content-between">
 
-                      <Link to={`/update/${user._id}`} className="btn btn-primary btn-sm me-2">Update</Link>
+                      <Link to=`/update`` className="btn btn-primary btn-sm me-2">Update</Link>
 
                         <button className="btn btn-danger btn-sm">Delete</button>
 
